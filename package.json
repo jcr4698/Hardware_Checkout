@@ -11,7 +11,7 @@
     "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://jcr4698.github.io/Hardware_Checkout",
+  "homepage": "https://jcr4698.github.io/hardware_checkout",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
