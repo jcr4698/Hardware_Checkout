@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hardware_Checkout/static/css/main.45f44e05.css",
+    "main.js": "/Hardware_Checkout/static/js/main.59327799.js",
+    "index.html": "/Hardware_Checkout/index.html",
+    "main.45f44e05.css.map": "/Hardware_Checkout/static/css/main.45f44e05.css.map",
+    "main.59327799.js.map": "/Hardware_Checkout/static/js/main.59327799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45f44e05.css",
+    "static/js/main.59327799.js"
+  ]
+}
